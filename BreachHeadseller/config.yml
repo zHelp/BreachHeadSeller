@@ -1,0 +1,6 @@
+head:
+  name: '&6{player}''s head'
+  description:
+  - '&8Worth: &a{value}'
+  - '&8Sell this head! &a/sellhead'
+factor: 0.05
